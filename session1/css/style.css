@@ -1,0 +1,20 @@
+.redColor { 
+    color: red;
+    font-size: 40px;
+    font-family: Verdana;
+}
+.blueColor {
+    color: blue;
+    font-size: 40px;
+    font-family: Verdana;
+}
+.greyColor {
+    color: grey;
+    font-size: 40px;
+    font-family: Verdana;
+}
+.greenColor {
+    color: green;
+    font-size: 40px;
+    font-family: Verdana;
+}
