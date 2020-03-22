@@ -1,0 +1,11 @@
+.parent {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.child{
+    width: 300px;
+}
