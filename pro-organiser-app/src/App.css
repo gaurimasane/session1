@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.active {
+  background-color: rgb(112, 172, 209);
+  border-bottom: blue;
+  color: white;
+}
+.logo {
+  margin-left: 20px;
+}
+.main {
+  display: flex;
+  background-color: rgb(14, 131, 204);
+  color: white;
+}
+.nav {
+  align-self: center;
+  width: 70%;
+  text-align: right;
+}
+.ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-flex;
+}
+.li,
+a {
+  padding: 20px;
+  text-decoration: none;
+  color: white;
+}
+
