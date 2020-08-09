@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans&display=swap");
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css");
+@import url("https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js");
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js");
+.img{
+  width: 200px;
+
+}
+
+.app {
+  font-family: "PT Sans", sans-serif;
+  font-size: 80px;
+}
+
+.app__header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.app__inputs {
+  display: flex;
+  margin-top: 40px;
+}
+.Logo {
+  background-image: url(./logo.jpg);
+}
+.LOGO {
+  width: 200px;
+}
+.app__body {
+  display: flex;
+  justify-content: space-between;
+}
